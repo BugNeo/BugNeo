@@ -39,7 +39,7 @@
 ### Support Group:
 <a href="https://t.me/RelaxroomChat1"><img src="https://img.shields.io/badge/Relaxroom%20Team-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
 
-### Telegram Bots Channel:
+### Telegram Movies Channel:
 <a href="https://t.me/RelaxroomBkp"><img src="https://img.shields.io/badge/Free%20Movies/Series-Join%20Telegram%20Channel-blue.svg?logo=telegram"></a>
 
 ### Currently I'm Listening
