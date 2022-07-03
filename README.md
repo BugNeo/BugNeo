@@ -32,8 +32,8 @@
   </details>
 
 ### Follow on:
-[![Abir Hasan](https://img.icons8.com/fluent/48/000000/twitter.png)](https://twitter.com/realgaurv)
-[![realgaurv](https://img.icons8.com/fluent/48/000000/instagram-new.png)](https://instagram.com/realgaurv)
+
+[![Relaxroom](https://img.icons8.com/fluent/48/000000/instagram-new.png)](https://instagram.com/RelaxroomBkp)
 [![relaxroombkp](https://img.icons8.com/fluent/48/000000/telegram-app.png)](https://t.me/relaxroombkp)
 
 ### Support Group:
