@@ -43,5 +43,4 @@
 <a href="https://telegram.dog/relaxroombkp"><img src="https://img.shields.io/badge/Free%20Movies/Series-Join%20Telegram%20Channel-blue.svg?logo=telegram"></a>
 
 ### Currently I'm Listening to...
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31eacjzklsdo2qatl3syh5stueji&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31eacjzklsdo2qatl3syh5stueji&cover_image=true&theme=default&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31eacjzklsdo2qatl3syh5stueji&redirect=true)
