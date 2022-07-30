@@ -37,11 +37,11 @@
 [![relaxroombkp](https://img.icons8.com/fluent/48/000000/telegram-app.png)](https://t.me/relaxroombkp)
 
 ### Support Group:
-<a href="https://appopener.com/web/3tqjzgssb"><img src="https://img.shields.io/badge/Relaxroom%20Team-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="https://telegram.dog/RelaxroomOTT"><img src="https://img.shields.io/badge/Relaxroom%20Team-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
 
 ### Telegram Movies Channel:
-<a href="https://appopener.com/web/scv9m4ne4"><img src="https://img.shields.io/badge/Free%20Movies/Series-Join%20Telegram%20Channel-blue.svg?logo=telegram"></a>
+<a href="https://telegram.dog/relaxroombkp"><img src="https://img.shields.io/badge/Free%20Movies/Series-Join%20Telegram%20Channel-blue.svg?logo=telegram"></a>
 
-### Currently I'm Listening
+### Currently I'm Listening to...
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31eacjzklsdo2qatl3syh5stueji&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
