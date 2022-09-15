@@ -6,10 +6,10 @@
 <details>
   <summary>GitHub Stats</summary>
 <br/>
-<p align="left"> <a href="https://github.com/realgaurv"><img src="https://github-profile-trophy.vercel.app/?username=realgaurv" alt="realgaurv" /></a> </p>
+<p align="left"> <a href="https://github.com/G69S"><img src="https://github-profile-trophy.vercel.app/?username=realgaurv" alt="G69S" /></a> </p>
   </details>
 
-[![My github stats](https://github-readme-stats.vercel.app/api?username=RealGaurv&show_icons=true&theme=cobalt&count_private=true)](https://github.com/RealGaurv)
+[![My github stats](https://github-readme-stats.vercel.app/api?username=G69S&show_icons=true&theme=cobalt&count_private=true)](https://github.com/G69S)
 <details>
   <summary>Fav Databases</summary>
     <br/>
