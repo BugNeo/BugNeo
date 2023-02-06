@@ -13,5 +13,3 @@
 <!-- <img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/source.gif" width="280" height="auto" /></a> -->
 ### Currently I'm Listening to...
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31eacjzklsdo2qatl3syh5stueji&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31eacjzklsdo2qatl3syh5stueji&redirect=true)
-
-[![relaxroombkp](https://img.icons8.com/fluent/48/000000/telegram-app.png)](Relaxroombkp.t.me)
